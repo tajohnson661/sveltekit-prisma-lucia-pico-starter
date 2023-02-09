@@ -1,0 +1,12 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero {
+  background-color: #394046;
+  background-image: url(http://picsum.photos/800/400);
+  background-position: center;
+  background-size: cover;
+}
